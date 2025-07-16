@@ -1,4 +1,4 @@
-## 3rd Year Student @ UTD
+# 3rd Year Student @ UTD
 ### Welcome to my portfolio, check out some projects and info about me below!
 
 ##### Thrid year Computer Information Systems student at the Univsersity of Texas at Dallas interested in pursuing a career in Data analytics or Business analytics. Skilled in data visualization, automation, and reporting using tools like Power BI, SQL, DAX, SharePoint, and Power Automate. Passionate about turning data into actionable insights to drive business decisions. Outside of academics, I enjoy watching and playing basketball, spending time with friends and family, and meeting new people.
