@@ -1,4 +1,5 @@
-# 3rd Year Undergraduate Student | Aspiring Data/Business Analyst
+# 3rd Year Undergraduate Student
+## Aspiring Data/Business Analyst
 
 
 ### Education
@@ -7,7 +8,7 @@ B.S. Computer Information Systems & Technology
 Graduation Date: Spring 2027
 
 
-### Technical Skills: Python, SQL, Excel, Power BI, Tableau, DAX, AWS
+##### Technical Skills: Python, SQL, Excel, Power BI, Tableau, DAX, AWS
 
 
 ### Work Experience
