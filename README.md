@@ -1,5 +1,5 @@
 ## Welcome to my portfolio, below are some info and projects!
-Thrid year Computer Information Systems student at the Univsersity of Texas at Dallas interested in pursuing a career in Data analytics or Business analytics. Skilled in data visualization, automation, and reporting using tools like Power BI, SQL, and DAX. I'm Passionate about turning data into actionable insights to drive business decisions. Outside of academics, I enjoy watching and playing basketball, spending time with friends and family, and meeting new people.
+Third year Computer Information Systems student at the Univsersity of Texas at Dallas interested in pursuing a career in Data analytics or Business analytics. Skilled in data visualization, automation, and reporting using tools like Power BI, SQL, and DAX. I'm Passionate about turning data into actionable insights to drive business decisions. Outside of academics, I enjoy watching and playing basketball, spending time with friends and family, and meeting new people.
 
 
 ### Education
